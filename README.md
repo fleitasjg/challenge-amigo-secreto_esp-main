@@ -22,9 +22,9 @@ La aplicación "Amigo Secreto" permite a los usuarios ingresar nombres de amigos
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/tu_usuario/amigo-secreto.git
+   git clone https://github.com/fleitasjg/challenge-amigo-secreto_esp-main.git
 
-2. Navegar al directorio del proyecto: cd amigo-secreto
+2. Navegar al directorio del proyecto: cd challenge-amigo-secreto_esp-main
 3. Abrir el archivo HTML en un navegador:
 
 Abre index.html en tu navegador web preferido.
